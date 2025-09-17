@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITVDN-WEBAPI-PRACTICE", "ITVDN-WEBAPI-PRACTICE\ITVDN-WEBAPI-PRACTICE.csproj", "{76F8B2AF-6B53-4C4C-B6BB-59C1D58744EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Data", "ClassLibrary.Data\ClassLibrary.Data.csproj", "{3AD95A47-175B-4507-B4CE-4C71785E638B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{76F8B2AF-6B53-4C4C-B6BB-59C1D58744EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76F8B2AF-6B53-4C4C-B6BB-59C1D58744EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76F8B2AF-6B53-4C4C-B6BB-59C1D58744EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD95A47-175B-4507-B4CE-4C71785E638B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD95A47-175B-4507-B4CE-4C71785E638B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{3AD95A47-175B-4507-B4CE-4C71785E638B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD95A47-175B-4507-B4CE-4C71785E638B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
